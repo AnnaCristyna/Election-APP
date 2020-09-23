@@ -1,6 +1,7 @@
 It is an application to monitor a voting system in real-time. The front-end uses Functional components and the Count-up and Flip-move libraries. The back-end generates values for popularity and simulates the voting system. It was made using React.js and Node.js.
 
 #### [![Link](http://img.youtube.com/vi/pEzA-PqHX6E/0.jpg)](http://www.youtube.com/watch?v=pEzA-PqHX6E "Election")
+#### [![Back-end link]](https://github.com/AnnaCristyna/Election-API)
 
 
 In the project directory, you can run:
